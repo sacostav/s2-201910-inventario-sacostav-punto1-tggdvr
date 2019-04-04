@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "name": "Cartera",
+  "description": "Cartera de cuero color café",
+  "reference": "CAR-195",
+  "status": "active",
+  "inventory": {
+    "unit": "piece",
+    "availableQuantity": 160,
+    "unitCost": 2560,
+    "initialQuantity": 120
+  },
+  "tax": [
+    {
+      "id": 6,
+      "name": "IVA",
+      "percentage": 16,
+      "description": "Impuesto de valor agregado",
+      "status": "active"
+    }
+  ],
+  "category": {
+    "id": 54,
+    "name": "Ventas"
+  },
+  "price": [
+    {
+      "idPriceList": 1,
+      "name": "General",
+      "price": 1200
+    },
+    {
+      "idPriceList": 2,
+      "name": "Distribuidor",
+      "price": 3900
+    },
+    {
+      "name": "Mayorista",
+      "idPriceList": 6,
+      "price": 3700
+    }
+  ]
+}

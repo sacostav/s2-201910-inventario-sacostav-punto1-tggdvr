@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Billetera",
+  "description": "Billetera de cuero negro",
+  "reference": "REF-005",
+  "status": "inactive",
+  "inventory": {
+    "unit": "piece",
+    "availableQuantity": 150,
+    "unitCost": 560,
+    "initialQuantity": 320
+  },
+  "tax": [
+    {
+      "id": 6,
+      "name": "IVA",
+      "percentage": 16,
+      "description": "Impuesto de valor agregado",
+      "status": "active"
+    }
+  ],
+  "category": {
+    "id": 54,
+    "name": "Ventas"
+  },
+  "price": [
+    {
+      "idPriceList": 1,
+      "name": "General",
+      "price": 1200
+    },
+    {
+      "idPriceList": 2,
+      "name": "Distribuidor",
+      "price": 1050
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+ {
+    "id": 3,
+    "name": "Diseño de monedero ",
+    "description": "Diseño de monedero en cuero.",
+    "reference": "",
+    "status" : "active",
+    "tax" : [
+      {
+        "id" : 6,
+        "name" : "IVA",
+        "percentage" : 16,
+        "description" : "Impuesto de valor agregado",
+        "status": "active"
+        }
+      ],
+    "category" : {
+      "id": 54,
+      "name" : "Ventas"
+      },
+    "price" : [
+      {
+        "idPriceList" : 1,
+        "name" : "General",
+        "price" : 1200
+       }
+     ]
+  }

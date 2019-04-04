@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Billetera",
+    "description": "Billetera de cuero negro",
+    "reference": "REF-005",
+    "status": "inactive"
+  },
+  {
+    "id": 2,
+    "name": "Cartera",
+    "description": "Cartera de cuero color café",
+    "reference": "CAR-195",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Diseño de monedero ",
+    "description": "Diseño de monedero en cuero.",
+    "reference": "",
+    "status": "active"
+  }
+]
